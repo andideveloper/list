@@ -150,17 +150,17 @@
 		},
 		{
 			"name":"Indo",
-			"url":"https://raw.githubusercontent.com/andideveloper/list/master/tv_indo.m3u",
+			"url":"https://github.com/andideveloper/list/blob/master/tv_indo.m3u",
 			"type":0
 		},
 		{
 			"name":"Movies",
-			"url":"https://raw.githubusercontent.com/andideveloper/list/master/Movies.m3u",
+			"url":"https://github.com/andideveloper/list/blob/master/Movies.m3u",
 			"type":0
 		},
 		{
 			"name":"Movies VOD",
-			"url":"https://raw.githubusercontent.com/andideveloper/list/master/Movie_VOD.m3u",
+			"url":"https://github.com/andideveloper/list/blob/master/Movie_VOD.m3u",
 			"type":0
 		}
 		
