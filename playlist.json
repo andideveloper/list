@@ -149,13 +149,13 @@
 			"type":0
 		},
 		{
-			"name":"Indo",
-			"url":"https://github.com/andideveloper/list/blob/master/tv_indo.m3u",
+			"name":"Movies",
+			"url":"https://archive.org/download/Movies_20170131/Movies.m3u",
 			"type":0
 		},
 		{
-			"name":"Movies",
-			"url":"https://github.com/andideveloper/list/blob/master/Movies.m3u",
+			"name":"TV-indo",
+			"url":"https://archive.org/download/tv_indo/tv_indo.m3u",
 			"type":0
 		},
 		{
