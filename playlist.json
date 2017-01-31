@@ -1,0 +1,168 @@
+{"playlist":[
+		{
+			"name":"Torrent TV (super-pomoyka)",
+			"url":"http://super-pomoyka.us.to/trash/ttv-list/ttv.m3u",
+			"type":1
+		},
+
+		{
+			"name":"Torrent TV (allfon.pro)",
+			"url":"http://allfon.pro/autogenplaylist/allfontv.m3u",
+			"type":0
+		},
+		
+		{
+			"name":"FreeSlyNet",
+			"url":"http://iptv.slynet.tv/FreeSlyNet.m3u",
+			"type":0
+		},
+
+		{
+			"name":"BestTV SlyNet",
+			"url":"http://iptv.slynet.tv/FreeBestTV.m3u",
+			"type":0
+		},
+
+		{
+			"name":"FreeWorldTV",
+			"url":"http://iptv.slynet.tv/FreeWorldTV.m3u",
+			"type":0
+		},
+
+		{
+			"name":"Webcam World",
+			"url":"http://iptv.slynet.tv/FreeWebCamsWorld.m3u",
+			"type":0
+		},
+
+		{
+			"name":"PeersTV SlyNet",
+			"url":"http://iptv.slynet.tv/PeerstvSlyNet.m3u",
+			"type":0
+		},
+
+		{
+			"name":"Kinodrom SlyNet",
+			"url":"http://iptv.slynet.tv/KinodromSlyNet.m3u",
+			"type":0
+		},
+
+		{
+			"name":"Lanet",
+			"url":"http://lanet.tv/playlist.m3u",
+			"type":0
+		},
+
+		{
+			"name":"ListIPTV",
+			"url":"http://listiptv.ru/iptv.m3u",
+			"type":0
+		},
+
+		{
+			"name":"ListIPTV 18",
+			"url":"http://listiptv.ru/iptv18.m3u",
+			"type":0
+		},
+
+		{
+			"name":"545-TV(UA)",
+			"url":"http://545-tv.com/listUA.php",
+			"type":0
+		},
+
+		{
+			"name":"playlistX",
+			"url":"https://dl.dropboxusercontent.com/u/47797448/playlist/all_vlc.m3u",
+			"type":0
+		},
+
+		{
+			"name":"Films EX.UA",
+			"url":"http://iptv-sima.ucoz.ru/film.m3u",
+			"type":0
+		},
+
+		{
+			"name":"Kineskop.tv",
+			"url":"http://kineskop.tv/pl/",
+			"type":0
+		},
+
+		{
+			"name":"Edem TV тест",
+			"url":"http://btcf.ru/list.m3u",
+			"type":0
+		},
+
+		{
+			"name":"UA nstreamevo.kumuki",
+			"url":"http://nstreamevo.kumuki.com/4254/ua.m3u",
+			"type":0
+		},
+
+		{
+			"name":"UA2 nstreamevo.kumuki",
+			"url":"http://nstreamevo.kumuki.com/4254/ua2.m3u",
+			"type":0
+		},
+
+		{
+			"name":"getsapp 400",
+			"url":"http://getsapp.ru/IPTV/Auto_IPTV.m3u",
+			"type":0
+		},
+
+		{
+			"name":"getsapp 444",
+			"url":"http://getsapp.ru/IPTV/444_iptv.m3u",
+			"type":0
+		},
+
+		{
+			"name":"SmartZala",
+			"url":"https://playlist.vladna.tk/z.m3u",
+			"type":0
+		},
+
+		{
+			"name":"Tv-sat.pro",
+			"url":"http://tv-sat.pro/files/iptv_tv-sat.pro.m3u",
+			"type":0
+		},
+
+   {
+			"name":"Zala",
+			"url":"http://www.zala.ml/zala.m3u",
+			"type":0
+		},
+
+		{
+			"name":"KinoBOOM",
+			"url":"http://gazetamayak.kz/playlists/kinoBOOM.m3u8",
+			"type":0
+		},
+
+		{
+			"name":"Diforfree",
+			"url":"http://diforfree.org/pls/di_hi.m3u",
+			"type":0
+		},
+		{
+			"name":"Indo",
+			"url":"https://portal.andicorp.net/listm3u/Infokom_Elektrindo__PT__Jakarta.m3u",
+			"type":0
+		},
+		{
+			"name":"Movies",
+			"url":"https://portal.andicorp.net/listm3u/Movies.m3u",
+			"type":0
+		},
+		{
+			"name":"Movies VOD",
+			"url":"https://portal.andicorp.net/listm3u/Movie_VOD.m3u",
+			"type":0
+		}
+		
+		
+	]}
