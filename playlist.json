@@ -150,17 +150,17 @@
 		},
 		{
 			"name":"Indo",
-			"url":"https://portal.andicorp.net/listm3u/Infokom_Elektrindo__PT__Jakarta.m3u",
+			"url":"https://github.com/andideveloper/list/tv_indo.m3u",
 			"type":0
 		},
 		{
 			"name":"Movies",
-			"url":"https://portal.andicorp.net/listm3u/Movies.m3u",
+			"url":"https://github.com/andideveloper/list/Movies.m3u",
 			"type":0
 		},
 		{
 			"name":"Movies VOD",
-			"url":"https://portal.andicorp.net/listm3u/Movie_VOD.m3u",
+			"url":"https://github.com/andideveloper/list/Movie_VOD.m3u",
 			"type":0
 		}
 		
