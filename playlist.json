@@ -1,12 +1,12 @@
 {"playlist":[
 		{
-			"name":"Torrent TV (super-pomoyka)",
+			"name":"Torrent TV 1",
 			"url":"http://super-pomoyka.us.to/trash/ttv-list/ttv.m3u",
 			"type":1
 		},
 
 		{
-			"name":"Torrent TV (allfon.pro)",
+			"name":"Torrent TV 2",
 			"url":"http://allfon.pro/autogenplaylist/allfontv.m3u",
 			"type":0
 		},
@@ -84,7 +84,7 @@
 		},
 
 		{
-			"name":"Kineskop.tv",
+			"name":"Kineskop",
 			"url":"http://kineskop.tv/pl/",
 			"type":0
 		},
@@ -96,13 +96,13 @@
 		},
 
 		{
-			"name":"UA nstreamevo.kumuki",
+			"name":"UA Nstreamvo 1",
 			"url":"http://nstreamevo.kumuki.com/4254/ua.m3u",
 			"type":0
 		},
 
 		{
-			"name":"UA2 nstreamevo.kumuki",
+			"name":"UA2 Nstreamvo 2",
 			"url":"http://nstreamevo.kumuki.com/4254/ua2.m3u",
 			"type":0
 		},
@@ -126,7 +126,7 @@
 		},
 
 		{
-			"name":"Tv-sat.pro",
+			"name":"TVsat pro",
 			"url":"http://tv-sat.pro/files/iptv_tv-sat.pro.m3u",
 			"type":0
 		},
