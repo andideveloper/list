@@ -8891,45 +8891,44 @@
 		"icon":"1WgROjn7Y8K1woXJVJDbROPefcIVVO.png",
 		"url":"http://1torrent.tv/uploads/"
 	},
-
 	{
 		"name":"Ретро ТВ",
 		"icon":"I3IFTN9VNdEMN8xRVfACGYUeDnSryn.png",
 		"url":"http://1torrent.tv/uploads/"
 	},
-
 	{
 		"name":"Русский Бестселлер",
 		"icon":"ZXgpmrwmj2EfMpuUOKGsjC92raIiZH.png",
 		"url":"http://1torrent.tv/uploads/"
 	},
-
 	{
 		"name":"Русский Роман",
 		"icon":"4rNoPIHGGc881NtZdnHrADUlALiwQa.png",
 		"url":"http://1torrent.tv/uploads/"
 	},
-
 	{
 		"name":"ТНТ (+7)",
 		"icon":"kCQXGTI9xiwZfObJqNlqaCz0kfKKM6.png",
 		"url":"http://1torrent.tv/uploads/"
 	},
-
 	{
 		"name":"ТНТ Хабаровск",
 		"icon":"R2cyFL9ExmCpr8IVjCASh8xAV8hY3i.png",
 		"url":"http://1torrent.tv/uploads/"
 	},
-
 	{
 		"name":"ТНТ+7",
 		"icon":"jkZgwza1xOztw6Itdhy3ohSxubG7sA.png",
 		"url":"http://1torrent.tv/uploads/"
-	}
+	},
 	{
 		"name":"RCTI",
 		"icon":"photo.jpg",
 		"url":"https://lh4.googleusercontent.com/-pNxQ62aFZf8/AAAAAAAAAAI/AAAAAAAAAtQ/KiOxIBYjuE8/"
+	},
+	{
+		"name":"METRO TV",
+		"icon":"photo.jpg",
+		"url":"https://lh4.googleusercontent.com/-STh8y7E6S-I/AAAAAAAAAAI/AAAAAAAACDs/hc2e4oq8eTE/s0-c-k-no-ns/"
 	}
 ]}
