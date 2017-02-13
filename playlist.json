@@ -172,6 +172,16 @@
 			"name":"Live",
 			"url":"http://1six.16mb.com/playlist/Live.m3u",
 			"type":0
+		},
+		{
+			"name":"Git 1",
+			"url":"http://185.2.83.24:8000/get.php?username=kevin&password=kevin&type=m3u",
+			"type":0
+		},
+		{
+			"name":"Git 2",
+			"url":"http://5.254.66.188:8000/get.php?username=gio17132&password=fVcLn0lEYf&type=m3u",
+			"type":0
 		}
 		
 		
