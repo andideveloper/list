@@ -162,6 +162,11 @@
 			"name":"Movies VOD",
 			"url":"http://1six.16mb.com/playlist/Movie_VOD.m3u",
 			"type":0
+		},
+		{
+			"name":"Movies Full",
+			"url":"http://1six.16mb.com/playlist/movie_full.m3u",
+			"type":0
 		}
 		
 		
