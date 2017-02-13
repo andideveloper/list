@@ -130,8 +130,7 @@
 			"url":"http://tv-sat.pro/files/iptv_tv-sat.pro.m3u",
 			"type":0
 		},
-
-   {
+  		{
 			"name":"Zala",
 			"url":"http://www.zala.ml/zala.m3u",
 			"type":0
@@ -174,13 +173,108 @@
 			"type":0
 		},
 		{
-			"name":"Git 1",
+			"name":"New 1",
 			"url":"http://185.2.83.24:8000/get.php?username=kevin&password=kevin&type=m3u",
 			"type":0
 		},
 		{
-			"name":"Git 2",
+			"name":"New 2",
 			"url":"http://5.254.66.188:8000/get.php?username=gio17132&password=fVcLn0lEYf&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 3",
+			"url":"http://www.iptvgafsa.tn:8000/get.php?username=hamza&password=hamza&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 4",
+			"url":"http://ksportiptv.com:1557/get.php?username=albaniaiptv.com&password=albaniaiptv.com&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 5",
+			"url":"http://51.255.76.67:1557/get.php?username=9999&password=9999&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 6",
+			"url":"http://iptv-club.xyz:8000/get.php?username=kulhan&password=CJ7adoVykX&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 7",
+			"url":"http://149.202.208.25:5210/get.php?username=PTDNXA4on7&password=4MiiaJWnJz&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 8",
+			"url":"http://163.172.6.8:8000/get.php?username=LDji6wM8Re&password=TFxN3UU0bu&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 9",
+			"url":"http://www.iptvgafsa.tn:8000/get.php?username=hatem&password=hatem&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 10",
+			"url":"http://www.iptvgafsa.tn:8000/get.php?username=HASSEN&password=HASSEN&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 11",
+			"url":"http://195.154.154.185:5890/get.php?username=usa&password=usa&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 12",
+			"url":"http://163.172.57.247:9998/get.php?username=karim&password=karim&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 13",
+			"url":"http://104.236.28.30:8081/get.php?username=jean&password=jean&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 14",
+			"url":"http://188.165.198.140:8080/get.php?username=ines&password=ines&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 15",
+			"url":"http://176.31.227.49:8000/get.php?username=senol&password=senol&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 16",
+			"url":"http://163.172.84.89/get.php?username=husam&password=husam&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 17",
+			"url":"http://137.74.200.81:8000/get.php?username=hmm&password=hmm&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 18",
+			"url":"http://ipsatpro.info:8000/get.php?username=onolzytrb4&password=TwRZYdFjzk&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 19",
+			"url":"http://clientportalpro.com:2500/get.php?username=FUpt8PUSGi&password=VwlrODCEqY&type=m3u",
+			"type":0
+		},
+		{
+			"name":"New 20",
+			"url":"http://31.209.18.32:8000/playlist.m3u8",
+			"type":0
+		},
+		{
+			"name":"New 21",
+			"url":"http://185.53.163.72:9981/playlist",
 			"type":0
 		}
 		
