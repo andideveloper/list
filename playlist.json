@@ -167,6 +167,11 @@
 			"name":"Movies Full",
 			"url":"http://1six.16mb.com/playlist/movie_full.m3u",
 			"type":0
+		},
+		{
+			"name":"Live",
+			"url":"http://1six.16mb.com/playlist/Live.m3u",
+			"type":0
 		}
 		
 		
