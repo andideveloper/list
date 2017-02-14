@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <List>
 #EXTM3U
-#EXTINF:0 group-title="Russian",Адмиралъ (2008/7.0)
-http://hd-cdn.kinoprofi.org/files/tn595wcBy7_ZAhMhmtWePA,1478533530/admiral-2008.hd.720p.flv
-#EXTINF:0 group-title="Russian",ANCOR still ANCOR (1992/7.2)
-http://hd-cdn.kinoprofi.org/files/mwOIEbayHMsiqvTF7xPEbQ,1481261048/ankor-esche-ankor-1993.dvd.720p.flv
-#EXTINF:0 group-title="Russian",In August the 44th (2001/7.8)
-http://hd-cdn.kinoprofi.org/files/bi9rdQTnhzdcalonLfnrRQ,1478540380/v-avguste-44-go-2002.hd.720p.flv
-#EXTINF:0 group-title="Russian",driver for the Faith (2004/7.1)
-http://hd-cdn.kinoprofi.org/files/h8pWJkv4n8L22Lz0RZPMEw,1478540600/voditel-dlya-very-2004.hd.720p.flv
-#EXTINF:0 group-title="Russian",all of men (2016/4.8)
-http://hd-cdn.kinoprofi.org/files/2udJnAv628En5qzgR9l-iQ,1479908867/Vsyo.o.Mijinah.2016.HDRip.720p.flv
-#EXTINF:0 group-title="Russian",goal (2005/7.7)
-http://hd-cdn.kinoprofi.org/files/z9q-vEFk_bZ1BFF1_ensjw,1478584708/gol-2005.hd.720p.flv
-#EXTINF:0 group-title="Russian",DMB (2000)
 #EXTINF:-1,Movie_CINEMA_1
 plugin://plugin.video.f4mTester/?url=http://tvdreams.org:50100/live/Saada/Saada/315.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Movie_CINEMA_2
