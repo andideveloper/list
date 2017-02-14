@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <List>
 #EXTM3U
-#EXTINF:-1,---- SKY INTRATTENIMENTO ----
+#EXTINF:0,---- SKY INTRATTENIMENTO ----
 #EXTINF:0 group-title="Novel",Ant Man (1997)
 http://sirftp.com/Movies/Ant-Man.mkv
 #EXTINF:0 group-title="Novel",in the wild conditions (2007)
