@@ -1,11 +1,5 @@
 {"channel":[
 		{
-			"id":"2",
-			"title":"Tes2",
-			"description":"ini hanya tes saja",
-			"url":"rtsp://ss.bbstv.co.id:1935/bbstv/live2",
-			"category":"unik",
-		},{
 			"id":"3",
 			"title":"Test 3",
 			"description":"ini hanya tes saja",
