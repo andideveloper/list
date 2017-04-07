@@ -64,4 +64,9 @@
 	"image": "http://www.rtv.co.id/images/rtv/newlogo.png",
 	"play": "https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8"
 	},
+	{
+	"title": "GOD TV",
+	"image": "http://www.nuelight.co.za/images/6gallery_92/original/god-tv-logo.jpg",
+	"play":"http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/index_282_av-p.m3u8"
+	},
 ]
