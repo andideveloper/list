@@ -1,10 +1,9 @@
 [
 	{
-		"title": "C-NEWS",
-		"image": "http://www.broadbandtvnews.com/wp-content/uploads/2017/02/CNews_Logo.jpg",
-		"play": "https://stream-01.vty.dailymotion.com/37/dm/1/x3b68jn/live.isml/live.m3u8"
+	"title": "C-NEWS",		
+	"image": "http://www.broadbandtvnews.com/wp-content/uploads/2017/02/CNews_Logo.jpg",
+	"play": "https://stream-01.vty.dailymotion.com/37/dm/1/x3b68jn/live.isml/live.m3u8"
 	},
-
 	{
 	"title": "KOMPAS TV",
 	"image": "http://www.kompas.tv/assets/assets/logo.png",
@@ -39,5 +38,30 @@
 	"title": "RCTI",
 	"image": "https://upload.wikimedia.org/wikipedia/commons/7/74/RCTI.png",
 	"play": "http://t5-id-1.nim.mivo.tv/antvgbzz08k63rfu/rcti2_all/skrz1j8exe/rcti2_576p/chunks.m3u8?nimblesessionid=41147005&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMTcgMToxNDo1OCBQTSZoYXNoX3ZhbHVlPVBudlk0Vk40cXlWT3UvT1RXVUplSVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNDMwMzE1fDIwMi4xMjkuMjE3LjQ="
+	},
+	{
+	"title": "INDOSIAR",		
+	"image": "https://upload.wikimedia.org/wikipedia/id/archive/3/39/20120606174504%21INDOSIAR_Logo.png",
+	"play": "https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8"
+	},
+	{
+	"title": "O'CHANNEL",
+	"image": "http://2.bp.blogspot.com/-YI6lEvyCQy8/VMU6pP0LZHI/AAAAAAAABoQ/tRJFL2HxL_g/s1600/O%2BChannel%2BLogo.png",
+	"play": "https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/playlist.m3u8"
+	},
+	{
+	"title": "METRO TV",
+	"image": "https://lh4.googleusercontent.com/-STh8y7E6S-I/AAAAAAAAAAI/AAAAAAAACDs/hc2e4oq8eTE/photo.jpg",
+	"play":"https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/playlist.m3u8"
+	},
+	{
+	"title": "ANTV",
+	"image": "http://www.an.tv/assets/uploads/2017/02/Logo-Antv-Viva.png",
+	"play": "https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8"
+	},
+	{
+	"title": "RTV",
+	"image": "http://www.rtv.co.id/images/rtv/newlogo.png",
+	"play": "https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/playlist.m3u8"
 	},
 ]
