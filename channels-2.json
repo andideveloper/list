@@ -30,4 +30,14 @@
 	"image": "http://www.netmedia.co.id/assets/img/logo1.png",
 	"play": "https://stream-03.sg1.dailymotion.com/05/dm/1/x5fbjpe/live.isml/live.m3u8"
 	},
+	{
+	"title": "SCTV",
+	"image": "http://www.sctv.co.id/assets/img/logo_small.png",
+	"play": "https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8"
+	},
+	{
+	"title": "RCTI",
+	"image": "https://upload.wikimedia.org/wikipedia/commons/7/74/RCTI.png",
+	"play": "http://t5-id-1.nim.mivo.tv/antvgbzz08k63rfu/rcti2_all/skrz1j8exe/rcti2_576p/chunks.m3u8?nimblesessionid=41147005&wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMTcgMToxNDo1OCBQTSZoYXNoX3ZhbHVlPVBudlk0Vk40cXlWT3UvT1RXVUplSVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yNDMwMzE1fDIwMi4xMjkuMjE3LjQ="
+	},
 ]
