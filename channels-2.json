@@ -30,6 +30,11 @@
 	"play": "https://stream-03.sg1.dailymotion.com/05/dm/1/x5fbjpe/live.isml/live.m3u8"
 	},
 	{
+	"title": "NET TV2",
+	"image": "http://www.netmedia.co.id/assets/img/logo1.png",
+	"play": "https://youtu.be/AlKoAjWP348"
+	},
+	{
 	"title": "SCTV",
 	"image": "http://www.sctv.co.id/assets/img/logo_small.png",
 	"play": "https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8"
