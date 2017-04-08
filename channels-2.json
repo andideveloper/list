@@ -25,6 +25,11 @@
 	"play": "http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:766f3957f89/chunklist_b512000000.m3u8?stime=20170408203802&etime=20170409003802&encoded=0a7b6d0c503e240ade268"
 	},
 	{
+	"title": "TRANS7",
+	"image": "http://4.bp.blogspot.com/-BcME9XxWNl8/VMSPAKyUPfI/AAAAAAAABe0/FAsqODwnCuA/s1600/Trans%2B7%2BLogo.png",
+	"play":"http://wowzaprdwdx-lh.akamaihd.net/i/5fdcd91a_1@425588/index_2728_av-p.m3u8"
+	},
+	{
 	"title": "NET TV",
 	"image": "http://www.netmedia.co.id/assets/img/logo1.png",
 	"play": "https://stream-03.sg1.dailymotion.com/05/dm/1/x5fbjpe/live.isml/live.m3u8"
