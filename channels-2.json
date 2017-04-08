@@ -57,7 +57,7 @@
 	{
 	"title": "ANTV",
 	"image": "http://www.an.tv/assets/uploads/2017/02/Logo-Antv-Viva.png",
-	"play": "https://hulkfiles.com/tmg.m3u8?stream=antv&expired=aab1a12fd919a2dbfcda7083f06cbd5d&token=dc2f6184253899653878e6b4f1edc9dc"
+	"play": "https://hulkfiles.com/tmg.m3u8?stream=antv&token=dc2f6184253899653878e6b4f1edc9dc"
 	},
 	{
 	"title": "RTV",
@@ -72,6 +72,6 @@
 	{
 	"title": "JTV",
 	"image": "https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/200px-JTV_%282012%29.svg.png",
-	"play": "https://hulkfiles.com/tmg.m3u8?stream=j-tv&expired=e93eb6215ea49ed4b4beb06543950c7c&token=dc2f6184253899653878e6b4f1edc9dc"
+	"play": "https://hulkfiles.com/tmg.m3u8?stream=j-tv&token=dc2f6184253899653878e6b4f1edc9dc"
 	},
 ]
