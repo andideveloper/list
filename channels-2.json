@@ -90,7 +90,7 @@
 	"play": "http://edge.telin.swiftserve.com/live/sejXc8RhId_livetv-sbr/0e3e49d9f128/chunklist.m3u8?stime=20170408200000&etime=20170409000000&encoded=011ab4f163f79eac775b6&"
 	},
 	{
-	"titile": "UNKNOWN",
+	"title": "UNKNOWN",
 	"image": "https://oload.tv/logo/in8MQk1pJqg.png",
 	"play": "rtsp://ss.bbstv.co.id:1935/bbstv/live2"
 	},
