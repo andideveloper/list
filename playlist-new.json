@@ -7,7 +7,7 @@
 		},
   		{
 			"name":"TV USA",
-			"url":"http://1six.16mb.com/playlist/usa.m3u",
+			"url":"http://51.15.3.165:8000/get.php?username=adriano&password=adriano&type=m3u",
 			"type":0
 		},
 		{
