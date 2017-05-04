@@ -14,7 +14,7 @@
 		"name":"METRO TV",
 		"icon":"2000px-LogoMetroTVsince2010.svg.png",
 		"url":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/"
-  },
+  	},
 	{
 		"name":"KOMPAS TV",
 		"icon":"Kompas_TV_%282011%29.svg.png",
@@ -24,12 +24,12 @@
 		"name":"TRANS TV",
 		"icon":"logo.png",
 		"url":"http://www.transtv.co.id/template/front/source/images/bg/"
-  },
+  	},
 	{
 		"name":"TRANS 7",
 		"icon":"trans7.png",
 		"url":"http://www.pambayunsw.com/img/"
-  },
+  	},
 	{
 		"name":"GLOBAL TV",
 		"icon":"Global_TV.png",
@@ -39,5 +39,45 @@
 		"name":"MNC TV",
 		"icon":"MNC_2015.png",
 		"url":"http://vignette1.wikia.nocookie.net/logopedia/images/b/b1/"
-  }
+  	},
+	{
+		"name":"NET TV",
+		"icon":"logo1.png",
+		"url":"http://www.netmedia.co.id/assets/img/"
+  	},
+	{
+		"name":"TVRI",
+		"icon":"logo.png",
+		"url":"http://www.tvri.co.id/images/"
+  	},
+	{
+		"name":"iNEWS TV",
+		"icon":"1280px-INews_TV_logo.svg.png",
+		"url":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/"
+	},
+	{
+		"name":"INDOSIAR",
+		"icon":"20150804081605%21INDOSIAR_Logo.png",
+		"url":"https://upload.wikimedia.org/wikipedia/id/archive/3/39/"
+  	},
+	{
+		"name":"ANTV",
+		"icon":"200px-Antv_logo%282009%29.png",
+		"url":"https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Antv_logo%282009%29.png/"
+  	},
+	{
+		"name":"TVONE",
+		"icon":"20101206233224%21TvOne_logo_%282010%29.png",
+		"url":"https://upload.wikimedia.org/wikipedia/id/archive/5/5b/"
+  	},
+	{
+		"name":"RTV",
+		"icon":"RTV_Stacked_version.png",
+		"url":"http://vignette4.wikia.nocookie.net/logo-timeline/images/5/53/"
+	},
+	{
+		"name":"OCHANNEL",
+		"icon":"Ochannel.png/250px-Ochannel.png",
+		"url":"hhttps://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/"
+  	}
   ]}
