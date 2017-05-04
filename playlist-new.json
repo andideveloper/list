@@ -7,7 +7,7 @@
 		},
   		{
 			"name":"TV USA",
-			"url":"http://51.15.3.165:8000/get.php?username=adriano&password=adriano&type=m3u",
+			"url":"https://4nd1.com/TV/USA.m3u",
 			"type":0
 		},
 		{
