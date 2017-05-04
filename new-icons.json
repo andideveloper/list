@@ -1,0 +1,43 @@
+{"channel":[
+
+	{
+		"name":"RCTI",
+		"icon":"RCTI_Logo.svg/2000px-RCTI_Logo.svg.png",
+		"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/"
+	},
+	{
+		"name":"SCTV",
+		"icon":"1200px-SCTV_Logo.svg.png",
+		"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/"
+	},
+	{
+		"name":"METRO TV",
+		"icon":"2000px-LogoMetroTVsince2010.svg.png",
+		"url":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/"
+  },
+	{
+		"name":"KOMPAS TV",
+		"icon":"Kompas_TV_%282011%29.svg.png",
+		"url":"https://vignette2.wikia.nocookie.net/logopedia/images/c/cc/"
+	},
+	{
+		"name":"TRANS TV",
+		"icon":"logo.png",
+		"url":"http://www.transtv.co.id/template/front/source/images/bg/"
+  },
+	{
+		"name":"TRANS 7",
+		"icon":"trans7.png",
+		"url":"http://www.pambayunsw.com/img/"
+  },
+	{
+		"name":"GLOBAL TV",
+		"icon":"Global_TV.png",
+		"url":"http://vignette3.wikia.nocookie.net/logo-timeline/images/3/3d/"
+	},
+	{
+		"name":"MNC TV",
+		"icon":"MNC_2015.png",
+		"url":"http://vignette1.wikia.nocookie.net/logopedia/images/b/b1/"
+  }
+  ]}
