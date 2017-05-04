@@ -1,0 +1,28 @@
+{"playlist":[
+
+		{
+			"name":"TV INDONESIA",
+			"url":"http://1six.16mb.com/playlist/indo.m3u",
+			"type":0
+		},
+    {
+			"name":"TV USA",
+			"url":"http://1six.16mb.com/playlist/usa.m3u",
+			"type":0
+		},
+		{
+			"name":"SPORT",
+			"url":"http://1six.16mb.com/playlist/sport.m3u",
+			"type":0
+		},
+		{
+			"name":"MOVIES",
+			"url":"http://1six.16mb.com/playlist/movies.m3u",
+			"type":0
+		},
+		{
+			"name":"TORRENT",
+			"url":"http://1six.16mb.com/playlist/movies.m3u",
+			"type":0
+		}		
+]}
