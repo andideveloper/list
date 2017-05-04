@@ -3,9 +3,9 @@
 		{
 			"name":"TV INDONESIA",
 			"url":"http://1six.16mb.com/playlist/indo.m3u",
-			"type":0
+			"type":1
 		},
-    {
+  		{
 			"name":"TV USA",
 			"url":"http://1six.16mb.com/playlist/usa.m3u",
 			"type":0
