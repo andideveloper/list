@@ -22,7 +22,7 @@
 		},
 		{
 			"name":"MOVIES",
-			"url":"http://1six.16mb.com/playlist/movies.m3u",
+			"url":"http://cdn2.miip.tv:8880/get.php?username=stalker&password=stalker&type=m3u",
 			"type":0
 		},
 		{
