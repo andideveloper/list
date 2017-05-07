@@ -29,5 +29,10 @@
 			"name":"TORRENT",
 			"url":"http://1six.16mb.com/playlist/movies.m3u",
 			"type":0
+		},
+		{
+			"name":"RADIO",
+			"url":"http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1414170",
+			"type":0
 		}		
 ]}
