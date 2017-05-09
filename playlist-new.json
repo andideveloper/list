@@ -2,22 +2,22 @@
 
 		{
 			"name":"TELEVISION",
-			"url":"http://4nd1.com/TV/INDO.m3u",
+			"url":"http://4nd1.com/TV/Television.m3u",
 			"type":0
 		},
   		{
 			"name":"MOVIES",
-			"url":"https://4nd1.com/TV/USA.m3u",
+			"url":"https://4nd1.com/TV/Movies.m3u",
 			"type":0
 		},
   		{
 			"name":"RADIO",
-			"url":"http://4nd1.com/TV/ITALI.m3u",
+			"url":"http://4nd1.com/TV/Radio.m3u",
 			"type":0
 		},
 		{
 			"name":"VIDEO ON DEMAND",
-			"url":"http://4nd1.com/TV/SPORT.m3u",
+			"url":"http://4nd1.com/TV/Video_On_Demand.m3u",
 			"type":0
 		}		
 ]}
