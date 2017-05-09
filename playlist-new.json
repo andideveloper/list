@@ -1,38 +1,23 @@
 {"playlist":[
 
 		{
-			"name":"TV INDONESIA",
+			"name":"TELEVISION",
 			"url":"http://4nd1.com/TV/INDO.m3u",
 			"type":0
 		},
   		{
-			"name":"TV USA",
+			"name":"MOVIES",
 			"url":"https://4nd1.com/TV/USA.m3u",
 			"type":0
 		},
   		{
-			"name":"ITALI",
+			"name":"RADIO",
 			"url":"http://4nd1.com/TV/ITALI.m3u",
 			"type":0
 		},
 		{
-			"name":"SPORT",
+			"name":"VIDEO ON DEMAND",
 			"url":"http://4nd1.com/TV/SPORT.m3u",
-			"type":0
-		},
-		{
-			"name":"MOVIES",
-			"url":"http://4nd1.com/TV/Video_On_Demond.m3u",
-			"type":0
-		},
-		{
-			"name":"TORRENT",
-			"url":"http://1six.16mb.com/playlist/movies.m3u",
-			"type":0
-		},
-		{
-			"name":"RADIO",
-			"url":"http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1414170",
 			"type":0
 		}		
 ]}
