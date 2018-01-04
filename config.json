@@ -1,0 +1,160 @@
+[
+  {
+    "title":"Togel SG & HK",
+    "drawable":"",
+    "submenu":"PERJUDIAN",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Singapore",
+        "provider":"webview",
+        "arguments":[
+          "http://m1.idd100.com/data-lengkap-pengeluaran-togel-singapura.php"
+        ]
+      },
+      {
+        "title":"Hongkong",
+        "provider":"webview",
+        "arguments":[
+          "http://m1.idd100.com/data-lengkap-pengeluaran-togel-sydney.php"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Radio Stream",
+    "drawable":"",
+    "submenu":"MEDIA",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Ndang Dut",
+        "provider":"radio",
+        "arguments":[
+          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1766434"
+        ]
+      },
+      {
+        "title":"Radio Sahara",
+        "provider":"radio",
+        "arguments":[
+          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1743677"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"TV Live",
+    "drawable":"",
+    "submenu":"MEDIA",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Metro TV",
+        "provider":"stream",
+        "arguments":[
+          "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"SoundCloud",
+    "drawable":"",
+    "submenu":"MEDIA",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"User",
+        "provider":"soundcloud",
+        "arguments":[
+          "186749132", "user"
+        ]
+      },
+      {
+        "title":"Didi K",
+        "provider":"soundcloud",
+        "arguments":[
+          "72321487", "playlist"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Twitter",
+    "drawable":"",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Twitter",
+        "provider":"twitter",
+        "arguments":[
+          "TheAndy182"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Instagram",
+    "drawable":"",
+    "submenu":"Social Media",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Instagram",
+        "provider":"instagram",
+        "arguments":[
+          "2054975489"
+        ]
+      }
+    ]
+  },
+//  {
+//    "title":"Facebook",
+//    "drawable":"",
+//    "submenu":"Social Media",
+//    "iap":false,
+//    "tabs":[
+//      {
+//        "title":"Facebook",
+//        "provider":"facebook",
+//        "arguments":[
+//          "100001582050563"
+//        ]
+//      }
+//    ]
+//  },
+  {
+    "title":"Location",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"maps",
+        "arguments":[
+          "https://www.google.co.id/maps/place/Andi+Sapoetro/@-7.367387,111.2513717,17z/data=!3m1!4b1!4m5!3m4!1s0x2e79fb13e92db3b1:0x53aaaa1aaa19c3a!8m2!3d-7.3673923!4d111.2535604"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Developer",
+    "drawable":"",
+    "submenu":"Other",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.andidev.mobile.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
+
+
