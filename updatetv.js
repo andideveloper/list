@@ -1,6 +1,6 @@
 {
-	"versionCode":2,
-	"versionName":"1.2.0",
+	"versionCode":1,
+	"versionName":"1.1.0",
 	"fileSize":"10.03MB",
 	"apkUrl":"https://github.com/andideveloper/list/raw/master/app-release.apk",
 	"required":false,
