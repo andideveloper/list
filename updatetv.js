@@ -1,6 +1,6 @@
 {
 	"versionCode":1,
-	"versionName":"1.1.0",
+	"versionName":"1.2.0",
 	"fileSize":"12.69MB",
 	"apkUrl":"https://github.com/andideveloper/list/raw/master/app-x86-release.apk","https://github.com/andideveloper/list/raw/master/app-armeabi-v7a-release.apk","https://github.com/andideveloper/list/raw/master/app-universal-release.apk"
 	"required":true,
