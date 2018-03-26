@@ -1,9 +1,9 @@
 {
-	"versionCode":1,
-	"versionName":"1.2.0",
-	"fileSize":"12.69MB",
-	"apkUrl":"https://github.com/andideveloper/list/raw/master/app-x86-release.apk","https://github.com/andideveloper/list/raw/master/app-armeabi-v7a-release.apk","https://github.com/andideveloper/list/raw/master/app-universal-release.apk"
+	"versionCode":2,
+	"versionName":"1.0",
+	"fileSize":"15.939MB",
+	"apkUrl":"https://github.com/andideveloper/list/raw/master/app-armeabi-v7a-release.apk"
 	"required":true,
-	"releaseDate":"2018-03-11 05:44:20",
-	"releaseNotes":["New Version", "Detail Pemperbaruan","User-friendly", "Optimalisasi Kinerja dan perbaikan Fix Bug.", "Build Multi Arch"]
+	"releaseDate":"2018-03-27 05:18:50",
+	"releaseNotes":["New Version", "Detail Pemperbaruan","User-friendly", "Optimalisasi Kinerja dan perbaikan Fix Bug.", "Support Android 7.0"]
 }
