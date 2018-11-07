@@ -1,16 +1,14 @@
 {"channels_list":[
 		{
 			"id":"3",
-			"title":"Test 3",
+			"name":"Test 3",
 			"description":"ini hanya tes saja",
 			"link":"http://cdn.metube.id/videom3u8/BNJz9xRPaciwuTx1NsOu/index.m3u8",
 			"category":"unik",
-		},{
-			"id":"4",
-			"title":"Tes 4",
-			"description":"ini hanya tes saja",
-			"link":"http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1708807492_b1000000_sleng.m3u8",
-			"category":"unik",
+			"num":"1",
+			"hd":"1",
+			"pp":"1",
+			"q":"1",	
 		},
 		
 	]}
