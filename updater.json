@@ -1,10 +1,7 @@
 {
-  "ForcedUpdate":1,
+  "ForcedUpdate":0,
   "Version":"3.3",
-  "url": "https://github.com/ngawidev/list/blob/master/app-armeabi-v7a-release.apk",
+  "Url": "https://github.com/ngawidev/list/blob/master/app-armeabi-v7a-release.apk",
   "UpdateMsg": 
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
-  
+    "- First evolution"
 }
