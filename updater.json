@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.2.6",
-  "latestVersionCode": 10,
+  "ForcedUpdate":0,
+  "Version":"3.3",
   "url": "https://github.com/ngawidev/list/blob/master/app-armeabi-v7a-release.apk",
-  "releaseNotes": [
+  "UpdateMsg": [
     "- First evolution",
     "- Second evolution",
     "- Bug fixes"
