@@ -1,6 +1,10 @@
 {
-  "ForcedUpdate":1,
-  "Version":"3.3",
-  "UpdateMsg":"1，Fix bugs\r\n2，Renew Device \r\n3，Support Android 8.0 ，Add ExoPlayer \r\n4，Support Youtube，VOD\r\n5，And More",
-  "Url":"https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/app-debug.apk"
+  "latestVersion": "1.2.2",
+  "latestVersionCode": 10,
+  "url": "https://github.com/ngawidev/list/blob/master/app-armeabi-v7a-release.apk",
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
 }
