@@ -1,10 +1,12 @@
 {
-  "latestVersion": "1.2.2",
-  "latestVersionCode": 10,
+  "latestVersion": "1.1",
+  "latestVersionCode": 2,
   "url": "https://github.com/ngawidev/list/raw/master/app-release.apk",
   "releaseNotes": [
     "- Update New Release",
-    "- Fix Material Design",
+    "- Fix Mediaplayer Android KitKat,
+    "- Update UI Player Screen",
+    "- Material Design",
     "- Update Logo & Screen Splash",
     "- Bug fixes"
   ]
